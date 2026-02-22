@@ -1,0 +1,9 @@
+# Text files use LF
+* text=auto eol=lf
+
+# Binaries - tell Git to leave them alone
+*.exe binary
+*.apk binary
+*.png binary
+*.jpg binary
+*.jar binary
