@@ -28,7 +28,7 @@ after setting your theme and enabling the service after granting permissions, yo
 <details>
 <summary><b>how do i make a theme</b></summary>
 
-this repo is only for cink source code and the compiled binaries, tutorials will be available [here](https://www.github.com/Fundiman/cink-tutorials). basic usage in themes is to use the window.cink.unlock(); function in your html to unlock the device but you will have to manually configure authentication in the code of your theme and store the credentials in cookies or localStorage or IndexDB, basically whatever you prefer. we did this to make it so theme developers aren't forced into using the defaults!
+this repo is only for cink source code and the compiled binaries, tutorials will be available [here](https://www.github.com/Fundiman/cink-theming). basic usage in themes is to use the window.cink.unlock(); function in your html to unlock the device but you will have to manually configure authentication in the code of your theme and store the credentials in cookies or localStorage or IndexDB, basically whatever you prefer. we did this to make it so theme developers aren't forced into using the defaults!
 </details>
 
 <details>
