@@ -34,7 +34,7 @@ this repo is only for cink source code and the compiled binaries, tutorials will
 <details>
 <summary><b>what is the ACTUAL goal of this project</b></summary>
 
-to ENSURE that the klck developers go broke and can't even afford a slice of bread! to ENSURE the devs of klck beg for mercy from me! to ENSURE they suffer. (jk, ofc! or am i...?)
+to provide a solid alternative to klck that is fully free, and ultimately more functional.
 </details>
 
 <details>
