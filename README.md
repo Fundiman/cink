@@ -1,6 +1,7 @@
 # cink
 a alternative to klck that's actually free, good, easy to use, and customizable!
-
+> [!CAUTION]
+> this lockscreen aint secure at all! it's pretty and will protect from basic snooping but a more advanced hacker or script kiddie can easily swipe from the top and click the settings icon on most phones which will allow them to disable the app and if you enable draw over settings in developer options, malware can abuse that!
 ## FAQ
 <details>
 <summary><b>what is this project?</b></summary>
